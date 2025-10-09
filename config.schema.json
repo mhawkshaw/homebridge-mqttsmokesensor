@@ -2,6 +2,7 @@
   "pluginAlias": "MqttSmokeSensor",
   "pluginType": "platform",
   "singular": true,
+  "strictValidation": false,
   "headerDisplay": "Get information from Smoke Sensors that communicate over MQTT",
   "schema": {
     "type": "object",
