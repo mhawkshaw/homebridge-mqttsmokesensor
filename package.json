@@ -1,7 +1,7 @@
 {
   "displayName": "Homebridge MQTT Smoke Sensor",
   "name": "homebridge-mqttsmokesensor",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Fetches information from Smoke Sensors over MQTT",
   "license": "Apache-2.0",
   "type": "module",
